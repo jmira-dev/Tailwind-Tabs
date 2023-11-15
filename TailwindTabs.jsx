@@ -1,6 +1,3 @@
-// TailwindTabs by @cassidoo
-// github.com/cassidoo/react-tailwind-tabs
-
 import React, { useState, createContext, useContext, Children } from "react";
 
 // Customize your colors
